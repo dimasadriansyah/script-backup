@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# created by dimasadriansah4@gmail.com
+
 # How to run
 # ./backup-mysql.sh <sudo-password> <mysql-password>
 
